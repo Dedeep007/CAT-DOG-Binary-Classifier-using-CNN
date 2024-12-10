@@ -25,7 +25,7 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 ```
 ## Dataset:
   ```bash
-  !kaggle datasets download -d anthonytherrien/dog-vs-cat
+  kaggle datasets download -d anthonytherrien/dog-vs-cat
   ```
   Dataset URL: https://www.kaggle.com/datasets/anthonytherrien/dog-vs-cat
 
